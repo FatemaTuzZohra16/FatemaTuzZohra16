@@ -19,7 +19,7 @@ Here are some of my projects 👇
 
 - 🌐 [Portfolio Website](https://fatema-aney-site.vercel.app) – Personal portfolio built with React & Tailwind  
 - 🛒 [E-commerce Project](https://ecommerce-murex-two.vercel.app) – Responsive shop UI with cart functionality  
-- 📱 [react-innovate](https://react-innovate-38tc.vercel.app) – Weather forecast using API and jQuery  
+- 📱 [react-innovate](https://react-innovate-38tc.vercel.app) – Modern responsive landing page UI built with React and Tailwind CSS 
 
 
 ---
