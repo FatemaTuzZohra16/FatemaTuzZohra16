@@ -10,7 +10,7 @@
 - **Languages:** HTML, CSS, JavaScript  
 - **Frontend:** React.js, Tailwind CSS, Redux  
 - **Tools:** Git, GitHub, VS Code, Figma  
-- **Learning:** Next.js, PSD to HTML
+- **Learning:** Next.js, Figma to HTML
 
 ---
 
